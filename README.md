@@ -1,4 +1,4 @@
-![head_github](https://user-images.githubusercontent.com/13028053/115163466-45f26d00-a077-11eb-83d1-92b64ea6e8bb.png)
+![head_github](https://user-images.githubusercontent.com/13028053/115165617-acc65500-a07c-11eb-8dfa-c8aa1f19d7c9.png)
 
 <h1 align="center">Hi 👋, I'm Ismael Cuevas</h1>
 <h3 align="center">A passionate developer...</h3>
