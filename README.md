@@ -81,7 +81,7 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
 
 
 
-## 🚀 Mis projectos open source
+## 🚀 Mis proyectos open source
 <table>
   <tbody>
     <tr>
