@@ -76,7 +76,6 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
                 <code>NgRx</code>
             </td>
             <td align="center">
-                <code></code>
             </td>
         </tr>
     </tbody>
