@@ -9,8 +9,7 @@ Mis lenguajes de la semana son: **Java (Spring boot)** y **Typescript (Angular)*
 En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 😅 
 <br> Antes solía dedicarle muchas horas a la domótica, pero por prioridades en este momento está en stand-by 😢
 
-
-
+<br>
  ## 🌱 Mis conocimientos
 <table>
     <tbody>
@@ -82,7 +81,7 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
     </tbody>
   </table>
 
-
+<br>
 ## Mis projectos open source
 <table>
   <tbody>
@@ -95,7 +94,7 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
   </tbody>
 </table>
 
-<br>
+
 
 ------------
 <p align="center"><i>README.md</i> actualizado el <b>18 de abril del 2021</b></br>
