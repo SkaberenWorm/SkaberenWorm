@@ -3,19 +3,60 @@
 <h2>Un poco de mí ✌️</h2>
 
 ```java
-Person me = Person.builder()
-    .nombre("Ismael Cuevas")
-    .email("ismael.c.26a@gmail.com")
-    .build();
+// Me
+String name = "Ismael Cuevas";
+String email = "ismael.c.26a@gmail.com";
 
+// Work: Universidad Finis Terrae
 Work work = Work.builder()
     .name("Universidad Finis Terrae")
     .position( "Developer Full-Stack")
     .build();
 
-List<Technology> technologies = new ArrayList();
-technologies.add(Technology.build()
-);
+// Technologies
+List<Technology> technologies = new ArrayList<>();
+
+// Flutter
+technologies.add(Technology.builder()
+    .languages(new String[]  { "Dart" })
+    .frameworks(new String[] { "Flutter" })
+    .type("Mobile").build());
+
+// Angular
+technologies.add(Technology.builder()
+    .languages(new String[]  { "Typescript" })
+    .frameworks(new String[] { "Angular" })
+    .type("Fontend").build());
+
+// Spring boot
+technologies.add(Technology.builder()
+    .languages(new String[]  { "java" })
+    .frameworks(new String[] { "Spring boot" })
+    .type("Backend").build());
+
+// Laravel: Algo olvidado
+technologies.add(Technology.builder()
+    .languages(new String[]  { "php" })
+    .frameworks(new String[] { "Laravel" })
+    .type("Backend").build());
+
+// Databases
+technologies.add(Technology.builder()
+    .name(new String[]  { "MySQL", "SQL Server", "Oracle" })
+    .type("Database").build());
+
+// Others
+technologies.add(Technology.builder()
+    .name(new String[]  { "Socket.io", "Git", "Banner 9 ERP" })
+    .type("Other").build());
+
+// Me
+return Person.builder()
+    .nombre(mane)
+    .email(email)
+    .work(work)
+    .technologies(technologies)
+    .build();
 
 ```
 
