@@ -66,8 +66,6 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
             <td align="center">
                 <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="40" height="40"/> 
             </td>
-            <td align="center">
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -75,8 +73,6 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
             </td>
              <td align="center">
                 <code>NgRx</code>
-            </td>
-            <td align="center">
             </td>
         </tr>
     </tbody>
