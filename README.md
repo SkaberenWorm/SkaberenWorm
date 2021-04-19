@@ -10,6 +10,7 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
 <br> Antes solía dedicarle muchas horas a la domótica, pero por prioridades en este momento está en stand-by 😢
 
 <br>
+
  ## 🌱 Mis conocimientos
 <table>
     <tbody>
@@ -82,6 +83,7 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
   </table>
 
 <br>
+
 ## Mis projectos open source
 <table>
   <tbody>
