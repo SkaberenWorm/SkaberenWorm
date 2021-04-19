@@ -1,5 +1,59 @@
 ![head_github (1)](https://user-images.githubusercontent.com/13028053/115165729-455cd500-a07d-11eb-87df-d94917c038df.png)
 
+<h2>Un poco de mí ✌️</h2>
+
+```java
+Person me = Person.builder()
+    .nombre("Ismael Cuevas")
+    .email("ismael.c.26a@gmail.com")
+    .build();
+
+Work work = Work.builder()
+    .name("Universidad Finis Terrae")
+    .position( "Developer Full-Stack")
+    .build();
+
+List<Technology> technologies = new ArrayList();
+technologies.add(Technology.build()
+);
+
+```
+
+```json
+{
+    "name": "Ismael Cuevas",
+    "email": "ismael.c.26a@gmail.com",
+    "work": {
+        "name": "Universidad Finis Terrae",
+        "position": "Developer Full-Stack",
+    },
+    "technologies": {
+        "mobileApp": [
+            {
+                "language": "Dart",
+                "framework": "Flutter"
+            }
+        ],
+        "frontEnd": {
+            "js": ["Angular", "NgRx"],
+            "css": ["materialize", "bootstrap"],
+        },
+        "backEnd": [
+            {
+                "language": "Java",
+                "framework": "Spring boot",
+            },
+            {
+                "language": "Php",
+                "framework": "Laravel",
+            },
+        ],
+        "databases": ["MySQL", "SQL Server", "Oracle"],
+        "others": ["Socket.IO", "Git", "Banner ERP"] 
+    }
+}
+```
+
 <h1 align="center">Hi 👋, I'm Ismael Cuevas</h1>
 <h3 align="center">A passionate developer...</h3>
 
@@ -19,3 +73,49 @@
 <a href="https://linkedin.com/in/ismael-cuevas-fernández-16049010a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismael-cuevas-fernández-16049010a/" height="30" width="30" /></a>
 <a href="https://instagram.com/_.ismael._c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ismael._c/" height="30" width="30" /></a>
 </p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```json
+{
+    "name": "Ismael Cuevas",
+    "working": "Universidad Finis Terrae",
+    "technologies": {
+        "mobileApp": ["Flutter"],
+        "frontEnd": {
+            "js": ["Angular", "NgRx"],
+            "css": ["materialize", "bootstrap"],
+        },
+        "backEnd": {
+            "java": ["String boot", "Spring security", "JPA"],
+        },
+        "databases": ["MySQL", "SQL Server", "Oracle"],
+        "others": ["Socket.IO"] 
+    }
+}
+```
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
