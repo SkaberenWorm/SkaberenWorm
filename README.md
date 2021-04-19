@@ -2,7 +2,7 @@
 
 <h2>Un poco de mí ✌️</h2>
 
-```Typescript
+```javascript
 // Me
 String name = "Ismael Cuevas";
 String email = "ismael.c.26a@gmail.com";
