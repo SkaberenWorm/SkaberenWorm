@@ -3,7 +3,7 @@
 <h2>Un poco de mí ✌️</h2>
 
 ```javascript
-// Me
+/* Me */
 String name = "Ismael Cuevas";
 String email = "ismael.c.26a@gmail.com";
 
