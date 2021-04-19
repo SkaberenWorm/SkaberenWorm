@@ -1,8 +1,94 @@
 ![head_github (1)](https://user-images.githubusercontent.com/13028053/115165729-455cd500-a07d-11eb-87df-d94917c038df.png)
 
-<h2>Un poco de mí ✌️</h2>
+## ✌️ Un poco sobre mí 
 
-```javascript
+Actualmente estoy trabajando como Developer Full-Stack en la Universidad Finis Terrae 🏫 <br>
+Mis lenguajes de la semana son: **Java (Spring boot)** y **Typescript (Angular)**  y mi lenguaje de fin de semana es **Flutter**.
+
+
+En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 😅 
+<br> Antes solía dedicarle muchas horas a la domótica, pero por prioridades en este momento está en stand-by 😢
+
+
+
+ ## 🌱 Mis conocimientos
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+            </td>
+            <td align="center">
+                <img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" alt="angularjs" width="50" height="50"/>
+            </td>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <code>Spring boot</code>
+            </td>
+            <td align="center">
+                <code>Angular</code>
+            </td>
+            <td align="center">
+                <code>Flutter</code>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="Mysql" width="40" height="40"/>
+            </td>
+            <td align="center">
+                <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+            </td>
+            <td align="center">
+                <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Oracle" width="40" height="40"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <code>MySQL</code>
+            </td>
+            <td align="center">
+                <code>SQL Server</code>
+            </td>
+            <td align="center">
+                <code>Oracle</code>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+            </td>
+            <td align="center">
+                <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="40" height="40"/> 
+            </td>
+            <td align="center">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <code>Git</code>
+            </td>
+             <td align="center">
+                <code>NgRx</code>
+            </td>
+            <td align="center">
+                <code></code>
+            </td>
+        </tr>
+    </tbody>
+  </table>
+
+<br>
+  
+
+
+
+## 💻 Un poco sobre mí en código
+```java
 // Me
 String name = "Ismael Cuevas";
 String email = "ismael.c.26a@gmail.com";
@@ -60,103 +146,4 @@ return Person.builder()
 
 ```
 
-```json
-{
-    "name": "Ismael Cuevas",
-    "email": "ismael.c.26a@gmail.com",
-    "work": {
-        "name": "Universidad Finis Terrae",
-        "position": "Developer Full-Stack",
-    },
-    "technologies": {
-        "mobileApp": [
-            {
-                "language": "Dart",
-                "framework": "Flutter"
-            }
-        ],
-        "frontEnd": {
-            "js": ["Angular", "NgRx"],
-            "css": ["materialize", "bootstrap"],
-        },
-        "backEnd": [
-            {
-                "language": "Java",
-                "framework": "Spring boot",
-            },
-            {
-                "language": "Php",
-                "framework": "Laravel",
-            },
-        ],
-        "databases": ["MySQL", "SQL Server", "Oracle"],
-        "others": ["Socket.IO", "Git", "Banner ERP"] 
-    }
-}
-```
 
-<h1 align="center">Hi 👋, I'm Ismael Cuevas</h1>
-<h3 align="center">A passionate developer...</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skaberenworm" alt="skaberenworm" /> </p>
-
-- 🔭 I’m currently working on Universidad Finis Terrae 
-
-- 🌱 I’m currently learning **Flutter**
-
-- 🤝 I’m looking for help with **CuponHouse**
-
-- 👨‍💻 All of my projects are available at 
-
-- 📫 How to reach me **ismael.c.26a@gmail.com**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p><p align="center">
-<a href="https://linkedin.com/in/ismael-cuevas-fernández-16049010a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismael-cuevas-fernández-16049010a/" height="30" width="30" /></a>
-<a href="https://instagram.com/_.ismael._c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ismael._c/" height="30" width="30" /></a>
-</p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```json
-{
-    "name": "Ismael Cuevas",
-    "working": "Universidad Finis Terrae",
-    "technologies": {
-        "mobileApp": ["Flutter"],
-        "frontEnd": {
-            "js": ["Angular", "NgRx"],
-            "css": ["materialize", "bootstrap"],
-        },
-        "backEnd": {
-            "java": ["String boot", "Spring security", "JPA"],
-        },
-        "databases": ["MySQL", "SQL Server", "Oracle"],
-        "others": ["Socket.IO"] 
-    }
-}
-```
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
