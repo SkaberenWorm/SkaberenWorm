@@ -82,6 +82,26 @@ En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 
     </tbody>
   </table>
 
+
+## Mis projectos open source
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/SkaberenWorm/Skaberen-code-generator-vscode"><b>Skaberen-code-generator-vscode</b></a></td>
+      <td>
+      Skaberen code generator is an extension of Visual Studio Code that allows us to generate a base code with a graphical user interface.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+------------
+<p align="center"><i>README.md</i> actualizado el <b>18 de abril del 2021</b></br>
+
+
+
 <br>
   
 
