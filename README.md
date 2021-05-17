@@ -3,7 +3,7 @@
 ## ✌️ Un poco sobre mí 
 
 Actualmente estoy trabajando como Developer Full-Stack en la Universidad Finis Terrae 🏫 <br>
-Mis lenguajes de la semana son: **Java (Spring boot)** y **Typescript (Angular)**  y mi lenguaje de fin de semana es **Flutter**.
+Mis lenguajes de la semana son: **Java (Spring boot)** y **Typescript (Angular)**  y mi lenguaje de fin de semana es **dart (Flutter)**.
 
 
 En mis tiempos libres me dedico a estudiar, imprimir en 3D y seguir programando 😅 
